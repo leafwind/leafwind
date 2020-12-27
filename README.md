@@ -2,7 +2,7 @@
 
 ## checkout my writings
 
-[writings.tech](https://writings.tech)
+[leafwind.tw](https://leafwind.tw)
 
 ## My writing subscription plan
 
