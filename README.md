@@ -1,9 +1,7 @@
-# leafwind
-
-## checkout my blog
+## Blog
 
 [leafwind.tw](https://leafwind.tw)
 
-## Email subscription
+## Newsletter subscription
 
 [Substack](https://leafwind.substack.com/)
